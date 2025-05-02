@@ -39,3 +39,10 @@ This project not only honed my technical skills but also showcased the importanc
 A huge Thank you to Sean Chandler for sharing your expertise and resources – your guidance has been invaluable on this journey!
 Here’s to learning, growing, and exploring more in the world of data analytics! 💻📊
 
+![Campaign Performance](https://github.com/user-attachments/assets/92ca635d-5a62-4838-a79d-3a361522cfd8)
+
+![Buyer-Composition](https://github.com/user-attachments/assets/3c1c463f-356d-4505-9091-e91aa4fd0f0c)
+
+![Purchase Drivers](https://github.com/user-attachments/assets/4affc2a8-05f5-4071-8ab6-34cf06106f4c)
+
+
